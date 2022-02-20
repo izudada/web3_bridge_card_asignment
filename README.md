@@ -1,6 +1,6 @@
 # Web3 Bridge Card Design Assignmnent ( A [Frontend Mentor Challenge](https://www.frontendmentor.io))
 
-![Project Image](images/image-header-desktop.jpg)
+![Project Image](images/desktop-preview.jpg)
 
 
 ## Setup
