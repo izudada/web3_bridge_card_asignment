@@ -45,8 +45,12 @@ h1 span {
     margin-top: 80px;
 }
 
-h3, #stats p {
+h3{
     color: hsl(0, 0%, 100%);
+}
+
+#stats p {
+    color: hsla(0, 0%, 100%, 0.6);
 }
 
 #stats p {
