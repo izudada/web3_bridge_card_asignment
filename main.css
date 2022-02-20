@@ -48,6 +48,10 @@ h3, #stats p {
     color: hsl(0, 0%, 100%);
 }
 
+#stats p {
+    margin-top: -13px;
+}
+
 .attribution { 
     font-size: 11px; 
     text-align: center; 
