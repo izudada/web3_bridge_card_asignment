@@ -1,0 +1,50 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+    justify-content: center;
+
+}
+
+body, main, .stats{
+    display: flex;
+}
+
+main {
+    width: 70%;
+    margin: 70px 40px;
+}
+
+main div {
+    width: 50%;
+    height: 70vh;
+}
+
+main div:nth-child(1){
+    background-color: hsl(244, 38%, 16%);
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+main div:nth-child(2){
+    background-image: url('images/image-header-desktop.jpg');
+}
+
+.detail {
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+h1 {
+    color: hsl(0, 0%, 100%)
+}
+
+h1 span {
+    color: hsl(277, 64%, 61%);
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
