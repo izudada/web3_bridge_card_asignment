@@ -84,6 +84,13 @@ h3{
     color: hsl(228, 45%, 44%); 
 }
 
+footer {
+    color: #fff;
+}
+
+footer a {
+    text-decoration: none;
+}
 
 
 @media screen and (max-width: 375px) {
