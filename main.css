@@ -3,6 +3,9 @@ body {
     justify-content: center;
     font-family: 'Inter', sans-serif;
     font-size: 15px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 body, main, #stats{
